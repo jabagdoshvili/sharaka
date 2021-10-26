@@ -651,6 +651,30 @@ $secendColor: #eabe56;
 }
 
 @media only screen and (max-width: 480px) {
+    html {
+        font-size: 11px;
+    }
+    .focus-area {
+        padding: 4.5rem 0;
+    }
+    .our-vision {
+        margin: 7.75rem 0 4.25rem;
+    }
+    .main-container .contact-form h1 {
+        font-size: 2.525rem;
+    }
+    .contact-form {
+        margin-bottom: -4.25rem !important;        
+    }
+    .our-portfolio {
+        padding: 4.5rem 0 7rem;
+    }
+    .why-partner {
+        padding-top: 4.5rem;
+    }
+    .bottom-section .text-space h6 {
+        font-size: 2.7rem;
+    }
     .middle {
         width: 100%;
         padding: 0 20px;
